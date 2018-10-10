@@ -9,7 +9,7 @@ ps : step 2 和 step 3 可一起做 (邊想邊Co)
 
 ### 預告: Self Project
 
-![史迪奇](https://stickershop.line-scdn.net/stickershop/v1/sticker/2713763/ANDROID/sticker.png)
+
 
 __題庫區__ (持續更新中...)
 
